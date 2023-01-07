@@ -98,6 +98,8 @@ $dark-pri: 0B5AA2;
   overflow-x: hidden;
   padding-top: 60px;
   font-family: 'Saira', sans-serif;
+  text-align: justify;
+  font-weight: bold;
 }
 
 .sidenav a {
